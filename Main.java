@@ -45,6 +45,7 @@ public class Main {
 			}
 			if (newPlace != null) currentPlace = newPlace;
 		}
+		System.out.println("Sigma");
 		
 	}
 
